@@ -16,9 +16,12 @@ Node.js and npm must be installed.
 
 Installing github repo and running project:
 
-`git clone https://github.com/*INSERT LINK HERE*\n
-cd red-balloon-demo\n
-npm install\n
+`git clone https://github.com/*INSERT LINK HERE*
+
+cd red-balloon-demo
+
+npm install
+
 npm start
 `
 
