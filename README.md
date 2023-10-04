@@ -19,7 +19,7 @@ Installing github repo and running project:
 ```git clone https://github.com/d-wynne/RedBalloonDemo
 cd red-balloon-demo
 npm install
-npm start
+npm run start
 ```
 
 The app will now be accessible in a browser at http://localhost:3000.
