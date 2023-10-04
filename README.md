@@ -18,7 +18,7 @@ Installing github repo and running project:
 
 ```
 git clone https://github.com/d-wynne/RedBalloonDemo
-cd red-balloon-demo
+cd RedBalloonDemo/red-balloon-demo
 npm install
 npm run start
 ```
