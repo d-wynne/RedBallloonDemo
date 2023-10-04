@@ -1,0 +1,35 @@
+.card{
+    box-shadow: -4px -3px 45px 21px rgba(0,0,0,0.05);
+    text-align: center;
+    border-radius: 1rem;
+    
+    /* margin: 35px, 10vw; */
+    padding: 20px;
+    margin-top: 15px;
+    margin-right: 10vw;
+    margin-bottom: 15px;
+    margin-left: 10vw;
+}
+
+/* .job-summary{
+    display: -webkit-box;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+	text-overflow: clip;
+  	overflow: hidden;
+    max-lines: 4;
+} */
+
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+
+h1{
+    font-size: 24pt;
+}
+
+h2{
+    color: rgb(207,68,78);
+    font-size: 14pt;
+}
