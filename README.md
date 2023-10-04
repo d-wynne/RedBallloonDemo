@@ -16,10 +16,10 @@ Node.js and npm must be installed.
 
 Installing github repo and running project:
 
-`git clone https://github.com/*INSERT LINK HERE*`
-`cd red-balloon-demo`
-`npm install`
-`npm start`
+```git clone https://github.com/*INSERT LINK HERE*
+cd red-balloon-demo
+npm install
+npm start```
 
 The app will now be accessible in a browser at http://localhost:3000.
 
