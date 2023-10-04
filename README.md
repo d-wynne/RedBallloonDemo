@@ -1,5 +1,4 @@
 # Frontend Code Project
-***
 
 This is a front-end web app built in React that displays a list of job postings fetched from a remote endpoint ("https://run.mocky.io/v3/3cbadbe0-009c-4239-ac4f-e52068d2cd48").
 
